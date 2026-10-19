@@ -1,0 +1,14 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Build output
+bin/
+obj/
+
+# NuGet packages (restored on build)
+packages/
+
+# Bundler output files
+bundle*.txt
